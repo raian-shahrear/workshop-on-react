@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { createContext, useState, use } from "react";
 
 const ToggleContext = createContext(null);
